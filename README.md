@@ -1,1 +1,1 @@
-# opiaatreceptor-amputatie-medicatie
+# opiaatreceptor-amputatie-dwangmedicatie
